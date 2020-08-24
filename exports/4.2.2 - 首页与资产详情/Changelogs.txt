@@ -47,3 +47,6 @@ Changelogs
 
 //Connect_App_v4.2.2.7
 1. 补充搜索无结果
+
+//Connect_App_v4.2.2.8
+1. 补充设置地址标签名
